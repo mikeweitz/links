@@ -12,6 +12,9 @@ A handful of links on useful topics for setting up local ENV, or scaffolding pro
 -  SSL on Localhost  
   [https://dev.to/remotesynth/running-ssl-on-localhost-42ol](https://dev.to/remotesynth/running-ssl-on-localhost-42ol)
 
+- Mac setup  
+  [https://github.com/atomantic/dotfiles](https://github.com/atomantic/dotfiles)
+
 ## Documentation
   - Markdown  
     [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
