@@ -9,7 +9,10 @@ A handful of links on useful topics for setting up local ENV, or scaffolding pro
 - Sublime Text 3 setup  
   [https://css-tricks.com/turn-sublime-text-3-into-a-javascript-ide/](https://css-tricks.com/turn-sublime-text-3-into-a-javascript-ide/)
 
--  SSL on Localhost  
+- Atom for React and Js  
+  [https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20](https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20)
+
+- SSL on Localhost  
   [https://dev.to/remotesynth/running-ssl-on-localhost-42ol](https://dev.to/remotesynth/running-ssl-on-localhost-42ol)
 
 - Mac setup  
@@ -31,3 +34,6 @@ A handful of links on useful topics for setting up local ENV, or scaffolding pro
 
 - CSS Grid at scale  
 [https://julian.is/article/css-grid-at-scale/](https://julian.is/article/css-grid-at-scale/)
+
+- CSS scroll animations  
+  [https://q42.github.io/delighters/](https://q42.github.io/delighters/)
